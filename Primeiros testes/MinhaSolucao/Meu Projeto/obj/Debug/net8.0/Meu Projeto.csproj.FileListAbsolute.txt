@@ -1,0 +1,14 @@
+C:\projetos\MinhaSolucao\Meu Projeto\bin\Debug\net8.0\Meu Projeto.exe
+C:\projetos\MinhaSolucao\Meu Projeto\bin\Debug\net8.0\Meu Projeto.deps.json
+C:\projetos\MinhaSolucao\Meu Projeto\bin\Debug\net8.0\Meu Projeto.runtimeconfig.json
+C:\projetos\MinhaSolucao\Meu Projeto\bin\Debug\net8.0\Meu Projeto.dll
+C:\projetos\MinhaSolucao\Meu Projeto\bin\Debug\net8.0\Meu Projeto.pdb
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.AssemblyInfoInputs.cache
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.AssemblyInfo.cs
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.csproj.CoreCompileInputs.cache
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.dll
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\refint\Meu Projeto.dll
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.pdb
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\Meu Projeto.genruntimeconfig.cache
+C:\projetos\MinhaSolucao\Meu Projeto\obj\Debug\net8.0\ref\Meu Projeto.dll

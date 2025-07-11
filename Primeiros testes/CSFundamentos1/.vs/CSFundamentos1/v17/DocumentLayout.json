@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\CSFundamentos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE31157-086A-4E27-8DCB-CC96FD298607}|TiposDeDados1\\TiposDeDados1.csproj|c:\\projetos\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE31157-086A-4E27-8DCB-CC96FD298607}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\CSFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
+              "ToolTip": "C:\\projetos\\CSFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeToolTip": "TiposDeDados1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:41:48.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
