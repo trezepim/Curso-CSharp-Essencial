@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projetos\\CSFundamentos1\\",
+  "WorkspaceRootPath": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BE31157-086A-4E27-8DCB-CC96FD298607}|TiposDeDados1\\TiposDeDados1.csproj|c:\\projetos\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE31157-086A-4E27-8DCB-CC96FD298607}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F26FF86-B73C-474F-85B5-587974E1AB14}|TiposDeDados3\\TiposDeDados3.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F26FF86-B73C-474F-85B5-587974E1AB14}|TiposDeDados3\\TiposDeDados3.csproj|solutionrelative:tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
-              "ToolTip": "C:\\projetos\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeToolTip": "TiposDeDados1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\TiposDeDados3\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados3\\Program.cs",
+              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\TiposDeDados3\\Program.cs",
+              "RelativeToolTip": "TiposDeDados3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T00:41:48.878Z",
+              "WhenOpened": "2025-07-11T03:19:51.658Z",
               "EditorCaption": ""
             }
           ]
