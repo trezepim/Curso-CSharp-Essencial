@@ -5,8 +5,7 @@ double raio = Convert.ToDouble(Console.ReadLine());
 
 Circulo circulo = new();
 
-double perimetro = circulo.CalcularPerimetro(raio);
-double area = circulo.CalcularArea(raio);
+double perimetro = circulo.CalculaAreaPerimetro(raio, out double area);
 
 Console.WriteLine($"Perímetro do círculo: {perimetro}");
 Console.WriteLine($"Área do círculo: {area}");
@@ -15,14 +14,11 @@ Console.ReadKey();
 
 public class Circulo
 {
-    public double CalcularArea(double raio)
+    public double CalculaAreaPerimetro(double raio, out double area)
     {
-        double area = Math.PI * Math.Pow(raio, 2);
-        return area;
-    }
-    public double CalcularPerimetro(double raio)
-    {
+        area = Math.PI * Math.Pow(raio, 2);
         double perimetro = 2 * Math.PI * raio;
+
         return perimetro;
     }
 }
