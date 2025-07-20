@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85A67221-FFE9-48EB-BE05-34FD213BF6A4}|ExercicioPratico3\\ExercicioPratico3.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\exerciciopratico3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85A67221-FFE9-48EB-BE05-34FD213BF6A4}|ExercicioPratico3\\ExercicioPratico3.csproj|solutionrelative:exerciciopratico3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4169FC5-43CC-4670-8567-5B7CCDEAE7CB}|PassagemPorParametrosReferenciaOut\\PassagemPorParametrosReferenciaOut.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\passagemporparametrosreferenciaout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4169FC5-43CC-4670-8567-5B7CCDEAE7CB}|PassagemPorParametrosReferenciaOut\\PassagemPorParametrosReferenciaOut.csproj|solutionrelative:passagemporparametrosreferenciaout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\ExercicioPratico3\\Program.cs",
-              "RelativeDocumentMoniker": "ExercicioPratico3\\Program.cs",
-              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\ExercicioPratico3\\Program.cs",
-              "RelativeToolTip": "ExercicioPratico3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\PassagemPorParametrosReferenciaOut\\Program.cs",
+              "RelativeDocumentMoniker": "PassagemPorParametrosReferenciaOut\\Program.cs",
+              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\PassagemPorParametrosReferenciaOut\\Program.cs",
+              "RelativeToolTip": "PassagemPorParametrosReferenciaOut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:26:50.518Z",
+              "WhenOpened": "2025-07-20T13:34:38.605Z",
               "EditorCaption": ""
             }
           ]
