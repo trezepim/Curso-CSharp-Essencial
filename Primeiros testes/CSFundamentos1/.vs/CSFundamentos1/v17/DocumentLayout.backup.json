@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5C93F23-81A9-4104-A8C4-20E8B1EF408D}|ArgumentosNomeados\\ArgumentosNomeados.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5C93F23-81A9-4104-A8C4-20E8B1EF408D}|ArgumentosNomeados\\ArgumentosNomeados.csproj|solutionrelative:argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9963F3F4-B15C-4630-8AF3-4814BF538FEE}|ParametrosOpcionais\\ParametrosOpcionais.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9963F3F4-B15C-4630-8AF3-4814BF538FEE}|ParametrosOpcionais\\ParametrosOpcionais.csproj|solutionrelative:parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\ArgumentosNomeados\\Program.cs",
-              "RelativeDocumentMoniker": "ArgumentosNomeados\\Program.cs",
-              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\ArgumentosNomeados\\Program.cs",
-              "RelativeToolTip": "ArgumentosNomeados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\ParametrosOpcionais\\Program.cs",
+              "RelativeDocumentMoniker": "ParametrosOpcionais\\Program.cs",
+              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\ParametrosOpcionais\\Program.cs",
+              "RelativeToolTip": "ParametrosOpcionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T14:00:59.621Z",
+              "WhenOpened": "2025-07-22T23:14:58.128Z",
               "EditorCaption": ""
             }
           ]
