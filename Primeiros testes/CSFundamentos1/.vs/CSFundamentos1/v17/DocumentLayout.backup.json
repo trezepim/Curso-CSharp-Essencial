@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{618BDB4B-3B51-4049-9790-B1B328A07F74}|CamposEstaticos\\CamposEstaticos.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\camposestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{618BDB4B-3B51-4049-9790-B1B328A07F74}|CamposEstaticos\\CamposEstaticos.csproj|solutionrelative:camposestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9535ACB6-558A-4341-ACD4-611C616E2D6F}|CamposEstaticosExercicio\\CamposEstaticosExercicio.csproj|c:\\projetos\\primeiros testes\\csfundamentos1\\camposestaticosexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9535ACB6-558A-4341-ACD4-611C616E2D6F}|CamposEstaticosExercicio\\CamposEstaticosExercicio.csproj|solutionrelative:camposestaticosexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\CamposEstaticos\\Program.cs",
-              "RelativeDocumentMoniker": "CamposEstaticos\\Program.cs",
-              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\CamposEstaticos\\Program.cs",
-              "RelativeToolTip": "CamposEstaticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\CamposEstaticosExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "CamposEstaticosExercicio\\Program.cs",
+              "ToolTip": "C:\\projetos\\Primeiros testes\\CSFundamentos1\\CamposEstaticosExercicio\\Program.cs",
+              "RelativeToolTip": "CamposEstaticosExercicio\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T23:48:16.922Z",
+              "WhenOpened": "2025-07-24T01:07:37.2Z",
               "EditorCaption": ""
             }
           ]
